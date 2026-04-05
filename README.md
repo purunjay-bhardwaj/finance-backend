@@ -40,6 +40,8 @@ uvicorn app.main:app --reload
 ### 7. Open API docs
 http://127.0.0.1:8000/docs
 
+API documentation is auto-generated and available at /docs when run locally
+
 ## Roles
 
 | Role    | Permissions |
